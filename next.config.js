@@ -9,7 +9,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   // إعدادات Next.js الخاصة بك
-  // output: 'standalone',
+  output: 'standalone',
   // distDir: 'dist',
   images: {
     domains: ['assets.aceternity.com'], // Add your image domain here
